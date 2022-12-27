@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml:1:1-55
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml:1:1-55
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml:1:1-55
+	package
+		ADDED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml:1:11-52
+		INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+		INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml:1:1-55
+uses-sdk
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+		ADDED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+		INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+		ADDED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
+		INJECTED from /home/mecasys/extension/MyProjects/AndroidStudioProjects/LightWeightApp/circular_slider/src/main/AndroidManifest.xml
